@@ -48,6 +48,7 @@ body {
   font-family: var(--body-font);
   font-size: var(--normal-font-size);
   color: var(--second-color);
+  background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
 }
 
 h1, h2, p {
@@ -112,6 +113,7 @@ img {
   z-index: var(--z-fixed);
   background-color: #fff;
   box-shadow: 0 1px 4px rgba(146, 161, 176, 0.15);
+  linear-gradient(to top, #ffffff 0%, #eeeeee 100%)
 }
 
 /*===== NAV =====*/
