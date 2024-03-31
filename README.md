@@ -9,5 +9,5 @@
 
 💙 Join the channel to see more videos like this. [M2H Web Solution](https://t.me/@m2hgamerz)
 
-![preview img](/e.png)
+![preview img](/output.png)
 
