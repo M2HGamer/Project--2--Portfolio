@@ -113,7 +113,7 @@ img {
   z-index: var(--z-fixed);
   background-color: #fff;
   box-shadow: 0 1px 4px rgba(146, 161, 176, 0.15);
-  linear-gradient(to top, #ffffff 0%, #eeeeee 100%)
+  background-image: linear-gradient(to top, #ffffff 0%, #eeeeee 100%);
 }
 
 /*===== NAV =====*/
